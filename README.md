@@ -1,4 +1,3 @@
 # samuelbender.com
 
-
-Hello World
+Personal Website
